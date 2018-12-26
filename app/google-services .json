@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "276479000351",
+    "firebase_url": "https://makershunt2018.firebaseio.com",
+    "project_id": "makershunt2018",
+    "storage_bucket": "makershunt2018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276479000351:android:b32b41914fe2ebfa",
+        "android_client_info": {
+          "package_name": "com.example.android.makershunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276479000351-jq8ph5kq2uc6g29gfble4iv7i2le32iq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.makershunt",
+            "certificate_hash": "8df6b49f7e21fa9a3b6552e5ffd48b38ba96149f"
+          }
+        },
+        {
+          "client_id": "276479000351-jd4cuc5bt0c76khljt8tuhg7a53tjmak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9mHoVswOpYuN7lySNvaztk_4IdFfvihU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276479000351-jd4cuc5bt0c76khljt8tuhg7a53tjmak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
